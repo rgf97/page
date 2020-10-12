@@ -1,3 +1,35 @@
+# About me
+
+## Education
+* [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro)
+* [ESTEM](http://ensim.univ-lemans.fr/fr/index.html)
+* [ENSIM](https://estem.ma/)
+
+
+## Experience
+* [AUSY](https://www.ausy.fr/fr)
+* [ST](https://www.st.com/content/st_com/en.html)
+
+
+## Skills 
+* [Programming](https://www.ausy.fr/fr)
+* [Testing](https://www.ausy.fr/fr)
+* [Embedded Storage](https://www.ausy.fr/fr)
+* [Wireless](https://www.ausy.fr/fr)
+* [Tecnology](https://www.ausy.fr/fr)
+
+
+## Others
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rgf97/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

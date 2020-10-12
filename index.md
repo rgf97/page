@@ -1,14 +1,17 @@
 # Roger N'Guessan
 
+
 ## Education
 * [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro)
 * [ESTEM](http://ensim.univ-lemans.fr/fr/index.html)
 * [ENSIM](https://estem.ma/)
 
 
+
 ## Experience
 * [AUSY](https://www.ausy.fr/fr)
 * [ST](https://www.st.com/content/st_com/en.html)
+
 
 
 ## Skills 
@@ -17,6 +20,7 @@
 * [Embedded Storage](https://www.ausy.fr/fr)
 * [Wireless](https://www.ausy.fr/fr)
 * [Tecnology](https://www.ausy.fr/fr)
+
 
 
 ## Others

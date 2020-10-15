@@ -2,8 +2,8 @@
 
 
 ## Education
-* [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro)
-* [ESTEM](http://ensim.univ-lemans.fr/fr/index.html)
+* [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ### High School Diploma
+* [ESTEM](http://ensim.univ-lemans.fr/fr/index.html) 
 * [ENSIM](https://estem.ma/)
 
 

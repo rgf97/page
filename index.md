@@ -4,7 +4,7 @@
 ## Education
 * [ENSIM](https://estem.ma/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Engineering Degree - Embedded Software
 * [ESTEM](http://ensim.univ-lemans.fr/fr/index.html) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Preparatory Classes - MPSI/MP
-* [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; High School Diploma - Maths/Physics
+* [LSY](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_scientifique_de_Yamoussoukro) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; High School Diploma - Maths/Physics
 
 
 
